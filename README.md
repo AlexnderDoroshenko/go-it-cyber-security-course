@@ -1,1 +1,1 @@
-# go-it-cyber-security-course
+# Home works and other study staff.
